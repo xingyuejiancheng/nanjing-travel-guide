@@ -1,4 +1,4 @@
-﻿﻿import type { CultureStory } from "@/types";
+﻿﻿﻿﻿import type { CultureStory } from "@/types";
 
 export const cultures: CultureStory[] = [
   {
